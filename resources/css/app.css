@@ -1,0 +1,31 @@
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+}
+body{
+    background-color:  #FFE6F7;
+}
+.barra-arriba {
+    background-color: #FFABE1;
+    border-bottom: 5px solid #937DC2;
+
+}
+
+a {
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+.barra-menu{
+
+    background-color: #FFABE1;
+    border: 1px solid #937DC2 ;
+    
+}
+.barra-menu  li:hover {
+
+    background-color: #937DC2;
+  
+}
+
+
